@@ -1,4 +1,4 @@
-# Emergency_911_Calls
+# Emergency 911 Calls
 
 
 ### Project Motivation:
@@ -30,7 +30,8 @@ Listed below all packages and libraries used in this project:
 </ol>
 
 ## summary
-A summary of the results of the analysis is described in detailed as <a href="https://github.com/Abdulaziz-KTA/Emergency_911_Calls/blob/master/Emergency%20-%20911%20Calls.ipynb">Jupyter notebook</a>
+A summary of the results of the analysis is described in detailed as <a href="https://github.com/Abdulaziz-KTA/Emergency_911_Calls/blob/master/Emergency%20-%20911%20Calls.ipynb">Jupyter notebook</a> and here my Medium post <a href="https://medium.com/@AbdulazizKTA/emergency-911-calls-a7d2879a6729">Emergency 911 Calls</a>
+.
 
 
 ## Acknowledgements
