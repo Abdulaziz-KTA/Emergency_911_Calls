@@ -30,7 +30,7 @@ Listed below all packages and libraries used in this project:
 </ol>
 
 ## summary
-A summary of the results of the analysis is described in detailed as <a href="">Jupyter notebook</a>
+A summary of the results of the analysis is described in detailed as <a href="https://github.com/Abdulaziz-KTA/Emergency_911_Calls/blob/master/Emergency%20-%20911%20Calls.ipynb">Jupyter notebook</a>
 
 
 ## Acknowledgements
