@@ -26,7 +26,7 @@ Listed below all packages and libraries used in this project:
 ### File description:
 <ol>
 <li> Jupyter notebook with complete analysis code
-<li> Original file Emergency - 911 Calls (911)
+<li> Original file inside .zip file Emergency - 911 Calls (911)
 </ol>
 
 ## summary
