@@ -1,5 +1,5 @@
 # Emergency 911 Calls
-and here my Medium post <a href="https://medium.com/@AbdulazizKTA/emergency-911-calls-a7d2879a6729">Emergency 911 Calls</a>
+Here my Medium post <a href="https://medium.com/@AbdulazizKTA/emergency-911-calls-a7d2879a6729">Emergency 911 Calls</a>
 
 ### Project Motivation:
 The motive behind the project is to study and understand the time to call on 911 in 2018
